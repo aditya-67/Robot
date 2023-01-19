@@ -2,7 +2,16 @@
 
 ## Action performed
 
-Choose the action you performed and review the corresponding checklist items."
+Choose the action you performed and review the corresponding checklist items.
+
+**How-to guide:** 
+
+Add an `x` inside the square brackets by removing the space to mark an item as `checked`
+
+- [ ] Unchecked
+- [x] Checked
+
+<hr />
 
 - [ ] **Edit an existing content (MDX) page**
 
